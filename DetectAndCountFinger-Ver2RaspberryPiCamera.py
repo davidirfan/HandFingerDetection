@@ -1,4 +1,4 @@
-# worked, hopefully
+# this program using Raspberry Pi camera
 
 from picamera2 import Picamera2
 import cv2
