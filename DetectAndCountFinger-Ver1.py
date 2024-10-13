@@ -1,5 +1,5 @@
 # finger detection and counter
-# work, with some lacks
+# this program using local camera like from laptop
 
 import cv2
 import mediapipe as mp
